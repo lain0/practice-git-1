@@ -3,3 +3,5 @@ My first line in project
 Paris is the capital of France
 =======
 >>>>>>> parent of 41dbfc5... Capital added for 2 countries
+new commit
+new commit 2
