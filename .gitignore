@@ -1,1 +1,2 @@
 *.tmp
+# -Xignore-all-space или -Xignore-space-change
